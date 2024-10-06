@@ -11,7 +11,7 @@ Step-by-Step Guide:
 
 1. Installation: Install Pytube using pip.
 
-  pip install pytube
+    pip install pytube
 
 
 2. Importing Libraries: Import Pytube in your Python script.
@@ -28,7 +28,7 @@ Step-by-Step Guide:
 
 🛠️ How To Solve The Error 🛠️ 
 
-  Use pip install pytubefix 
+   pip install pytubefix 
 
  # https://pytubefix.readthedocs.io/en/latest/
    
