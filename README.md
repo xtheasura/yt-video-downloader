@@ -24,7 +24,7 @@ Step-by-Step Guide:
 
 
 
- 🚫 For Error 🚫 :- pytube.exceptions.RegexMatchError: get_throttling_function_name: could not find match for multiple
+ 🚫 For Error  = pytube.exceptions.RegexMatchError: get_throttling_function_name: could not find match for multiple
 
 🛠️ How To Solve The Error 🛠️ 
 
